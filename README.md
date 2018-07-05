@@ -10,6 +10,12 @@ Code example below to add image link ref,
 And, then this links it in,
 
     ![Title for my cool image][1]
+    
+To create an image link we do,
+
+    [![Title for my cool image with link][2]][2]
+    
+It is useful if linked image is too large and user needs to click it zoom.
 
 ## URL Refs
 Example code to add hyperlink ref,
