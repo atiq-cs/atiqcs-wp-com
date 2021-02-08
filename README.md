@@ -1,3 +1,5 @@
+TODO: Deprecate this with the statiq site repo
+
 # Blog System Intro
 atiqcs.wordpress.com content management and version control
 
